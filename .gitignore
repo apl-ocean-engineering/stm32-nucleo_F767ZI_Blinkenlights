@@ -1,7 +1,5 @@
 .DS_Store
 Debug/
 
-.cproject
 .mxproject
-.project
 .settings/
